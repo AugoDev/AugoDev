@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AugoDev
 - 👀 I’m interested in Php, MySQL, JavaScript, Python and C
-- 🌱 I’m currently learning Php OOP and Python
+- 🌱 I’m currently learning Php OOP and C
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
