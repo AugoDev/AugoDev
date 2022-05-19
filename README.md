@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AugoDev
-- 👀 I’m interested in Php, SQL, Rust, ASM, C and Cobol (What is your favorite dinosaur ?!)
+- 👀 I’m interested in PHP, SQL, Rust, ASM, C and Cobol (What is your favorite dinosaur ?!)
 - 🌱 I’m currently learning design paterns and OOP in C (yes, we can)
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
